@@ -1,0 +1,46 @@
+{
+  "manifest_id": "regional-wider-2026-09-05",
+  "sent_at": "2026-09-05T19:01:57Z",
+  "channel": "Resend via email.ideanexusventures.com transactional endpoint",
+  "external_writes": 5,
+  "scope": [
+    "The Columbus Dispatch",
+    "Syracuse.com",
+    "West Austin News"
+  ],
+  "results": [
+    {
+      "candidate_id": "cand-col-dispatch-laird",
+      "status": "accepted",
+      "receipt_id": "inv_tx_c7ccae92c10044f58acf4e1a22b7c5f4",
+      "provider_id": "2a7ed360-8659-46da-8db3-57c72a715ce2"
+    },
+    {
+      "candidate_id": "cand-col-dispatch-candisky",
+      "status": "accepted",
+      "receipt_id": "inv_tx_c8de1107d160472d8b00913785935e5c",
+      "provider_id": "b621d747-e5b3-4d04-bd60-17c1946ea359"
+    },
+    {
+      "candidate_id": "cand-syracuse-knauss",
+      "status": "accepted",
+      "receipt_id": "inv_tx_810ade9464a7417bbd98cb7ca8c287a3",
+      "provider_id": "c34432a3-89e0-4055-9641-158883a807e2"
+    },
+    {
+      "candidate_id": "cand-aus-west-devries",
+      "status": "accepted",
+      "receipt_id": "inv_tx_03a847589fdb48bb8697731f1d8a7474",
+      "provider_id": "6aba2a8f-1594-4ba9-97e6-a25a355b973b"
+    },
+    {
+      "candidate_id": "cand-aus-west-perkins",
+      "status": "accepted",
+      "receipt_id": "inv_tx_ce9fd8e5f61c4ff2a3d91538fd01c13a",
+      "provider_id": "3f4eaa0f-316a-4505-9f36-5c2db74d460d"
+    }
+  ],
+  "delivery_boundary": "Resend accepted the messages for delivery; inbox delivery and readership are not verified.",
+  "follow_up_automation": false,
+  "cloudflare_worker_involved": false
+}

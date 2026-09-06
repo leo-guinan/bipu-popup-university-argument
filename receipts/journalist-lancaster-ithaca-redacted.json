@@ -1,0 +1,47 @@
+{
+  "manifest_id": "lancaster-ithaca-approval-2026-09-05",
+  "sent_at": "2026-09-05T18:24:05Z",
+  "channel": "Resend via email.ideanexusventures.com transactional endpoint",
+  "external_writes": 6,
+  "results": [
+    {
+      "candidate_id": "cand-lan-eg-barron",
+      "status": "accepted",
+      "receipt_id": "inv_tx_df44541c6d124beb91c9b706786ca4f9",
+      "provider_id": "745eae82-61cc-464c-b79d-ae7b63c11cc9"
+    },
+    {
+      "candidate_id": "cand-ith-voice-jordan",
+      "status": "accepted",
+      "receipt_id": "inv_tx_9cb955f8015a490eace57eef4bfb059d",
+      "provider_id": "43636ccc-7eb7-4d75-8775-d5ba78dccc65"
+    },
+    {
+      "candidate_id": "cand-ith-voice-zerez",
+      "status": "accepted",
+      "receipt_id": "inv_tx_d6f5e1e6ac14421289b1aef618702592",
+      "provider_id": "e2117fae-0ddf-432b-a387-778edb373ea7"
+    },
+    {
+      "candidate_id": "cand-ith-voice-figueroa",
+      "status": "accepted",
+      "receipt_id": "inv_tx_bc4dfc3774fc49f4ba357b67abdbe6cc",
+      "provider_id": "d9a1db37-8b0e-4a4d-a6d3-67852835038e"
+    },
+    {
+      "candidate_id": "cand-ith-voice-crandall",
+      "status": "accepted",
+      "receipt_id": "inv_tx_65b19197825541e488f4efb5b95b69b5",
+      "provider_id": "61af335f-63af-4a80-8b25-4f6d1f5f5dc2"
+    },
+    {
+      "candidate_id": "cand-ith-voice-potter",
+      "status": "accepted",
+      "receipt_id": "inv_tx_bc4ce7fa2ef54bdb9c5823e38dd93bcb",
+      "provider_id": "d4578307-7bda-4d49-8925-4519a0f717eb"
+    }
+  ],
+  "delivery_boundary": "Resend accepted the messages for delivery; inbox delivery and readership are not verified.",
+  "follow_up_automation": false,
+  "cloudflare_worker_involved": false
+}
