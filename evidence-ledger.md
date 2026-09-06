@@ -22,6 +22,7 @@ Status vocabulary:
 | E11 | E / Make E Great Again | Exact public URL/contract/post not supplied | user-supplied | Claimed crypto implementation of the open-E movement | Existence, token economics, holders, value, outcome |
 | E12 | Sponsor proof-of-play | Exact sponsor, post URLs, or artifact IDs not supplied | user-supplied | Claimed sponsor-facing implementation/receipt | Sponsor acceptance or endorsement |
 | E13 | Metaplur thesis | `argument.md` plus all above artifacts | interpretation | One protocol translated across multiple surfaces | Automatic points or judge agreement |
+| E14 | First BIPU popup | Builder's report that the first Build In Public University popup succeeded | user-supplied outcome claim | A judge-facing account of a temporary, non-threatening learning environment | Participant-level learning, future acceleration, or durable impact |
 
 ## Weekend totals currently supported by receipts
 
@@ -34,3 +35,7 @@ Status vocabulary:
 - 1 deployed Roots of a Nation interface, verified by direct extraction.
 
 These are artifact and handoff counts, not scores.
+
+## Outcome boundary for the popup-university claim
+
+The popup-university argument is currently supported by the number and variety of shipped translations. To upgrade “accelerated the futures of people there” from a persuasive thesis to an evidenced outcome, add participant testimony, follow-on artifacts, collaboration records, or other consented post-event evidence. Do not infer learning or life change from page views, post counts, provider acceptance, or the existence of a deployment.

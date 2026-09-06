@@ -21,6 +21,8 @@ The implementations include:
 - the E / Make E Great Again implementation, reported by the builder but awaiting an exact public receipt;
 - sponsor proof-of-play, reported by the builder but awaiting exact post or artifact URLs.
 
+The event-level frame is a first Build In Public University popup: a temporary, distributed learning environment that showed people new ideas and current production possibilities in a non-threatening way. “Accelerated futures” is the mechanism we are arguing for; participant-level impact still requires participant-level evidence.
+
 The argument is not that these items automatically score. It is that they demonstrate the List's underlying protocol across different surfaces, while preserving source boundaries and outcome uncertainty.
 
 ## Evidence posture
