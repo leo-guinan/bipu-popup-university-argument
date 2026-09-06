@@ -1,0 +1,36 @@
+{
+  "artifact": "marvin-judge-case.mp4",
+  "status": "rendered_verified",
+  "narrator": "Marvin",
+  "script": "video-script.txt",
+  "voice_provider": "elevenlabs",
+  "voice_instructions": "Dry, precise, mildly melancholy android-cat narrator; calm documentary delivery; no hype.",
+  "audio_source": "marvin-judge-case.wav",
+  "visuals": {
+    "format": "text-led 16:9 frame sequence",
+    "frame_count": 9,
+    "qa_contact_sheet": "video-frames/contact-sheet.png",
+    "qa_result": "all frames legible, consistent, unclipped; no accidental logos or pseudo-text"
+  },
+  "technical": {
+    "duration_seconds": 221.2,
+    "video_duration_seconds": 221.2,
+    "audio_duration_seconds": 220.775011,
+    "resolution": "1280x720",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_sample_rate": 44100,
+    "audio_channels": 1,
+    "sha256": "4200d6ab10c17eb49afef4fe81f0cc6f0d7f06d473bef8bc593a9e3cf7e74e49"
+  },
+  "verification": [
+    "ffprobe stream and format inspection passed",
+    "ffmpeg -v error decode check passed",
+    "contact-sheet visual QA passed"
+  ],
+  "publication": {
+    "published": false,
+    "external_writes": 0,
+    "note": "Local artifact only; no social upload or public post performed."
+  }
+}
