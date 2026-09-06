@@ -23,6 +23,7 @@ Status vocabulary:
 | E12 | Sponsor proof-of-play | Exact sponsor, post URLs, or artifact IDs not supplied | user-supplied | Claimed sponsor-facing implementation/receipt | Sponsor acceptance or endorsement |
 | E13 | Metaplur thesis | `argument.md` plus all above artifacts | interpretation | One protocol translated across multiple surfaces | Automatic points or judge agreement |
 | E14 | First BIPU popup | Builder's report that the first Build In Public University popup succeeded | user-supplied outcome claim | A judge-facing account of a temporary, non-threatening learning environment | Participant-level learning, future acceleration, or durable impact |
+| E15 | Leo's weekend X log | Authenticated `/2/users/1325102346792218629/tweets` pull; 106 posts, 15 keyword-relevant | verified publication log | Contemporaneous sequence of building, distributing, proof-of-play, BIPU, HumAIn, and E posts | Audience learning, sponsor acceptance, token outcome |
 
 ## Weekend totals currently supported by receipts
 
@@ -33,6 +34,7 @@ Status vocabulary:
 - 1 live landing page with lead magnet.
 - 20 symbolic PNG artifacts.
 - 1 deployed Roots of a Nation interface, verified by direct extraction.
+- 106 owned Leo posts retrieved for 2026-09-04 through 2026-09-06; 15 indexed as directly relevant to the argument.
 
 These are artifact and handoff counts, not scores.
 

@@ -24,6 +24,20 @@ We did not merely select one stunt and declare victory. We built a reusable tran
 6. **Create a new identity surface.** HumAIn Society, the E / Make E Great Again movement, and sponsor proof-of-play are additional claimed translations of the same protocol: identity, artifact, distribution, and evidence.
 7. **Preserve the boundary.** Provider acceptance is not readership. Publication is not impact. A public account is not a verified outcome. A token launch is not value creation.
 
+## What the builder's own weekend log adds
+
+The authenticated `@leo_guinan` pull supplies a contemporaneous builder-side record: 106 owned posts across September 4–6, with 15 posts directly relevant to the metaplur case. The most useful sequence is unusually clear:
+
+- the builder arrives in Austin and builds an agent to give people something to play with;
+- the builder describes future popup universities and learning through making;
+- the packet is fed to Marvin and a book is produced overnight;
+- the book is distributed;
+- “Proof of play” is posted twice, followed by “Proof of play delivered”;
+- the builder states that `@BuildInPublicU` is alive and that `@HumAIn_Society` has been born and is incubating the next node;
+- the builder frames AI plus lossy human coordination as play rather than threat.
+
+This is strong evidence for the story's sequence and declared mechanism. It is not, by itself, evidence that every audience member learned something, that the sponsor accepted the proof, or that the E implementation produced an economic outcome. The citation sheet is `receipts/x-personal/leo-weekend-key-posts.md`; the bounded raw pull is `receipts/x-personal/leo-owned-weekend-2026-09-04_06.json`.
+
 That is the metaplur: not a team name pasted over unrelated outputs, but a common operating grammar appearing in different implementations.
 
 ## Why this fits the spirit of the game

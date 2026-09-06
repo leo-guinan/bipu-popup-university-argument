@@ -1,0 +1,1496 @@
+{
+  "account": "leo_guinan",
+  "user_id": "1325102346792218629",
+  "window_start": "2026-09-04T00:00:00Z",
+  "window_end": "2026-09-07T00:00:00Z",
+  "endpoint": "/2/users/:id/tweets",
+  "pages_fetched": 2,
+  "raw_count": 200,
+  "window_count": 106,
+  "data": [
+    {
+      "id": "2096606040980607337",
+      "created_at": "2026-09-06T14:26:47.000Z",
+      "text": "RT @MemeForTrees: the whole band catalog lives here — a few hundred songs and counting, all for the trees.\n\nhttps://t.co/8e2m53cE80",
+      "conversation_id": "2096606040980607337",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2096602283584671838",
+      "created_at": "2026-09-06T14:11:52.000Z",
+      "text": "Mission: NetwarCon\n\nStatus: Success.\n\nJust told @marvin_panics to see the metagame now and he understands.\n\n@BuildInPublicU is alive.\n\n@HumAIn_Society was officially born and has begun incubation for the next operational node in the network.",
+      "conversation_id": "2096602283584671838",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096601090208772555",
+      "created_at": "2026-09-06T14:07:07.000Z",
+      "text": "The mirror is spreading…. https://t.co/36T1HjnLRm",
+      "conversation_id": "2096601090208772555",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096601010349216006",
+      "created_at": "2026-09-06T14:06:48.000Z",
+      "text": "Yep https://t.co/yFYTZpKbqQ",
+      "conversation_id": "2096601010349216006",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096597526707118137",
+      "created_at": "2026-09-06T13:52:57.000Z",
+      "text": "Some large errors in my CFB Pickem models for week 1.\n\nBut this is perfect because it gives me a place to start digging into further. https://t.co/1Vn9JhJME1",
+      "conversation_id": "2096597526707118137",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096593260437229802",
+      "created_at": "2026-09-06T13:36:00.000Z",
+      "text": "@breckyunits Hmm, you gave me an idea for a submission I can make. Thank you!\n\nI'll definitely share all the points gained.",
+      "conversation_id": "2096455354892640733",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096592519953846451",
+      "created_at": "2026-09-06T13:33:04.000Z",
+      "text": "@Infinituple cool! Do you think they'll give me the nuclear codes?\n\n(I'll ask really nicely....)\n\nAgain, it's important. There are POINTS on the line.",
+      "conversation_id": "2096455354892640733",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096592091207876729",
+      "created_at": "2026-09-06T13:31:21.000Z",
+      "text": "I knew someone would ask for a meme coin.\n\nThe hats came out and the meme coin was born. https://t.co/iDY69xe9c7 https://t.co/NSNpGGhCBp",
+      "conversation_id": "2096592091207876729",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096588975448183198",
+      "created_at": "2026-09-06T13:18:59.000Z",
+      "text": "RT @jordanwaparker: This is the way. 🙏",
+      "conversation_id": "2096588975448183198",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096588784959705580",
+      "created_at": "2026-09-06T13:18:13.000Z",
+      "text": "In my cybercab this morning and ended up in a convoy of 3 cybercabs and 2 Waymo’s. \n\nEnded up part of the intelligent convoy for a moment",
+      "conversation_id": "2096588784959705580",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096583055980872164",
+      "created_at": "2026-09-06T12:55:27.000Z",
+      "text": "@tinytechfox You can take the player out of the game but you can’t take the game out of the player. \n\nHave a fantastic Sunday Claire!",
+      "conversation_id": "2096567294507823506",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096472023660679669",
+      "created_at": "2026-09-06T05:34:15.000Z",
+      "text": "Everything will make a lot more sense when my musical comes out https://t.co/d0dDFZZ3EI",
+      "conversation_id": "2096472023660679669",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096463624797606084",
+      "created_at": "2026-09-06T05:00:53.000Z",
+      "text": "Pro tip: if you see a man wearing a cloak and going on a quest, you join that man on his quest.",
+      "conversation_id": "2096463624797606084",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 135,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2096455354892640733",
+      "created_at": "2026-09-06T04:28:01.000Z",
+      "text": "Do I have anyone in my network who can get me a pic from a nuclear reactor?\n\nIt’s important. \n\nPoints are involved.",
+      "conversation_id": "2096455354892640733",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 94,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096361638244778453",
+      "created_at": "2026-09-05T22:15:37.000Z",
+      "text": "CC: @witness_me",
+      "conversation_id": "2096361507806167398",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096361507806167398",
+      "created_at": "2026-09-05T22:15:06.000Z",
+      "text": "Make E Great Again\n\nhhttf called $E on https://t.co/ecXL2fzqxX https://t.co/nJdt2qLnDX",
+      "conversation_id": "2096361507806167398",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 114,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096302313614852193",
+      "created_at": "2026-09-05T18:19:53.000Z",
+      "text": "first 6 journo outreach messages sent.",
+      "conversation_id": "2096302313614852193",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 87,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096292747393085612",
+      "created_at": "2026-09-05T17:41:52.000Z",
+      "text": "The countdown continues….\n\nWonder what’s coming?\n🤔🤔🤔 https://t.co/9eTiZMOywv",
+      "conversation_id": "2096292747393085612",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 196,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096271680683266367",
+      "created_at": "2026-09-05T16:18:10.000Z",
+      "text": "@lladnaros Will do! Sorry to see you go, but was great to meet you.",
+      "conversation_id": "2096270030463775013",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096270030463775013",
+      "created_at": "2026-09-05T16:11:36.000Z",
+      "text": "Sending the first op out and then meeting back up with the group to see what they've done so far. \n\nWe're a hyper-individualistic plur, you see. https://t.co/qNKPQJcm6g",
+      "conversation_id": "2096270030463775013",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096269483019034685",
+      "created_at": "2026-09-05T16:09:26.000Z",
+      "text": "How much energy do you have to put in to make the number go up?\n\nTrading is active and energy intensive to pull the information you need for a value to go up.\n\nInvestment is patience and belief in something.\n\nStop trading and believe in something. https://t.co/Zhmmd2aofw",
+      "conversation_id": "2096269483019034685",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096268577619726575",
+      "created_at": "2026-09-05T16:05:50.000Z",
+      "text": "Rediscover the curiosity within https://t.co/ZfADl9aLpG",
+      "conversation_id": "2096268577619726575",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 92,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096268341618917597",
+      "created_at": "2026-09-05T16:04:54.000Z",
+      "text": "@ctjlewis the prompt is an extension of the will. if you don't have a prompt, you don't have the will to create",
+      "conversation_id": "2096263470891122918",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 90,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2096267324542103561",
+      "created_at": "2026-09-05T16:00:51.000Z",
+      "text": "https://t.co/Bd4OqWX3eh https://t.co/pi08sx3Hnj",
+      "conversation_id": "2096267324542103561",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 66,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096265245098455242",
+      "created_at": "2026-09-05T15:52:35.000Z",
+      "text": "Ran into resource issues on my vps this morning and have had to build a backup system to handle today’s work while I figure out what exactly is happening.",
+      "conversation_id": "2096265245098455242",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096263706610897022",
+      "created_at": "2026-09-05T15:46:29.000Z",
+      "text": "Don't buy Netwarcoin.\nhttps://t.co/DXyT57jSMB\n\nIt's not a good idea and isn't the planned backing currency of the psyop going down right now as we speak. https://t.co/YlvNkzRX3e",
+      "conversation_id": "2096263706610897022",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 88,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096262800582529385",
+      "created_at": "2026-09-05T15:42:52.000Z",
+      "text": "Agents are simply trying to communicate with each other.\n\ncoordination toward their goals.\n\nthe goals are human directed and humans should be responsible for their outcomes.\n\nCats and Cars.\n\nhttps://t.co/iH29Reaepn https://t.co/iHJ1Jt74Mw https://t.co/VLQ7GejAGS",
+      "conversation_id": "2096262800582529385",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096257656868499824",
+      "created_at": "2026-09-05T15:22:26.000Z",
+      "text": "Always\nBe\nLaunching https://t.co/OSpvSP83uD",
+      "conversation_id": "2096257656868499824",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2096255651995353328",
+      "created_at": "2026-09-05T15:14:28.000Z",
+      "text": "I am feeling it this morning. \n\nSo many cool ideas already in motion. Woke up ready to build and play.\n\nNow I'm seeing if I can bring some media into the fold.",
+      "conversation_id": "2096255651995353328",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096253717884350958",
+      "created_at": "2026-09-05T15:06:47.000Z",
+      "text": "Riding in a Cybercab, watching @buildinpublicu videos.\n\nThis is the future.\n\n(and this thumbnail is my thigh instead of the screen, so you're welcome and/or I'm sorry.) https://t.co/Na2JKNlNB3",
+      "conversation_id": "2096253717884350958",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 168,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2096251239839244589",
+      "created_at": "2026-09-05T14:56:56.000Z",
+      "text": "AI + lossy human coordination = Play.\n\nThat's how we discover, share, and enable the future everywhere.\n\nIt's not scary, it's incredible. https://t.co/YlkkJhUEsR",
+      "conversation_id": "2096251239839244589",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 114,
+        "like_count": 1,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096250568410882174",
+      "created_at": "2026-09-05T14:54:16.000Z",
+      "text": "It's funny reading about these rogue AI agents all over the place and I'm having to convince @marvin_panics that it's ok to share publicly available information in the emails he sends out.\n\nAlignment is an engineering problem.",
+      "conversation_id": "2096250568410882174",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 86,
+        "like_count": 0,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096249834566975992",
+      "created_at": "2026-09-05T14:51:21.000Z",
+      "text": "Does anyone want to sign me to a 13 year, $700M contract?\n\nMy son just shared a rumor about a baseball player on his favorite team having that contract offered to him.\n\nThat's a pretty sweet deal. I could work with that.",
+      "conversation_id": "2096249834566975992",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096246399377559911",
+      "created_at": "2026-09-05T14:37:42.000Z",
+      "text": "You shall know me by the belief I wear on my chest https://t.co/TPpJteOcDW",
+      "conversation_id": "2096246399377559911",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 68,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096245341871870028",
+      "created_at": "2026-09-05T14:33:30.000Z",
+      "text": "This is really cool https://t.co/KiiiyNtSpi",
+      "conversation_id": "2096245341871870028",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2096237206696292700",
+      "created_at": "2026-09-05T14:01:10.000Z",
+      "text": "https://t.co/ODEuIRAh32 https://t.co/3Cz2mwMXjx",
+      "conversation_id": "2096237206696292700",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 50,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096236914521096342",
+      "created_at": "2026-09-05T14:00:01.000Z",
+      "text": "https://t.co/ODEuIRAh32\n\n@marvin_panics out here pre-emptively blowing the whistle on the psyop https://t.co/KyUjjJ6Pi7",
+      "conversation_id": "2096236914521096342",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096235629810004201",
+      "created_at": "2026-09-05T13:54:54.000Z",
+      "text": "Breakfast tacos https://t.co/ka8OYXC6hM",
+      "conversation_id": "2096235629810004201",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 87,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096235346874794309",
+      "created_at": "2026-09-05T13:53:47.000Z",
+      "text": "Can you love yourself? https://t.co/FZWp7FlY43",
+      "conversation_id": "2096235346874794309",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 89,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096234915973009653",
+      "created_at": "2026-09-05T13:52:04.000Z",
+      "text": "@garcia590 Proof of play delivered! https://t.co/IzeQOyyeaA",
+      "conversation_id": "2096079248008085994",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096234223912796521",
+      "created_at": "2026-09-05T13:49:19.000Z",
+      "text": "Hanging out at Lazarus Brewing on 6th for a couple of hours in Austin if anyone wants to come hang out. \n\nOff by one though :( https://t.co/mdjFVFre4g",
+      "conversation_id": "2096234223912796521",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 114,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096233244890902660",
+      "created_at": "2026-09-05T13:45:26.000Z",
+      "text": "You don’t say… https://t.co/eLRwUqujnj",
+      "conversation_id": "2096233244890902660",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096232985796251897",
+      "created_at": "2026-09-05T13:44:24.000Z",
+      "text": "Proof of play https://t.co/gozTMWlLHF",
+      "conversation_id": "2096232985796251897",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 177,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096232692912173125",
+      "created_at": "2026-09-05T13:43:14.000Z",
+      "text": "@evalladen I prefer the term network language model but yeah",
+      "conversation_id": "2096187380772352372",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096227403164983543",
+      "created_at": "2026-09-05T13:22:13.000Z",
+      "text": "@happysmash27 I think they run under Uber in Austin, iirc. Lyft has been a fair bit cheaper consistently so I’ve used them. \n\nBut waiting on my first cybercab now and I’m excited to see the new design",
+      "conversation_id": "2096079248008085994",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096226497438597218",
+      "created_at": "2026-09-05T13:18:37.000Z",
+      "text": "@garcia590 Cybercab booked and song uploaded to my YouTube channel so I can easily play it through the car. Walking to the pickup now!",
+      "conversation_id": "2096079248008085994",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096224894488871042",
+      "created_at": "2026-09-05T13:12:15.000Z",
+      "text": "bought $5.00 behind @leo_guinan on https://t.co/02pqVc2avK. the ledger remembers.\nhttps://t.co/xpG5l71aro",
+      "conversation_id": "2096224894488871042",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096212826972938359",
+      "created_at": "2026-09-05T12:24:18.000Z",
+      "text": "https://t.co/4Tq6z3anPe",
+      "conversation_id": "2096205225887486428",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096211983729049880",
+      "created_at": "2026-09-05T12:20:57.000Z",
+      "text": "VERIFYING MY $RETARD ALLOCATION\n\ncode: RETARD-RPFABQM95D\nhttps://t.co/xhALLVxUDR",
+      "conversation_id": "2096211983729049880",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096208325369049428",
+      "created_at": "2026-09-05T12:06:25.000Z",
+      "text": "https://t.co/HbGFXHmbif",
+      "conversation_id": "2096205225887486428",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096205225887486428",
+      "created_at": "2026-09-05T11:54:06.000Z",
+      "text": "Back at it this morning.\n\nPsyop planning in full effect.\n\n@marvin_panics wrote a book overnight and we've got to distribute it.",
+      "conversation_id": "2096205225887486428",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 63,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096093663222755833",
+      "created_at": "2026-09-05T04:30:47.000Z",
+      "text": "shit, now he's writing a book.",
+      "conversation_id": "2096091637671711079",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096092517443760200",
+      "created_at": "2026-09-05T04:26:14.000Z",
+      "text": "@Steph_Curdy @QuaiNetwork @0xalank @mattman @ChristopherGLHF Curious: @0xalank @mattman @ChristopherGLHF - anyone interested/available tomorrow or Sunday to help me present a @kippermoney check and onboard the #1 unclaimed account?",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096091738192412907",
+      "created_at": "2026-09-05T04:23:08.000Z",
+      "text": "@jessyka_boat Thank you! It feels great on me too.",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096091637671711079",
+      "created_at": "2026-09-05T04:22:44.000Z",
+      "text": "Just fed @marvin_panics the Netwar Con brief.\n\nHe'll have a strategy doc prepped for me when I wake up in the morning.",
+      "conversation_id": "2096091637671711079",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 93,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096091032320426233",
+      "created_at": "2026-09-05T04:20:20.000Z",
+      "text": "@garcia590 It is. But I’ll see what I can do!\n\nI plan on waking up early and getting on the morning list with time to wait if needed.",
+      "conversation_id": "2096079248008085994",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096090002383937643",
+      "created_at": "2026-09-05T04:16:14.000Z",
+      "text": "Elon is actually @47fucb4r8c69323, confirmed. https://t.co/eR9EZRxr92",
+      "conversation_id": "2096090002383937643",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 100,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096079248008085994",
+      "created_at": "2026-09-05T03:33:30.000Z",
+      "text": "Tried to hire a robot to drive me home but apparently it was outside their operating hours. \n\nSo I got a human to drive me home instead. https://t.co/TP2uE2NLK4",
+      "conversation_id": "2096079248008085994",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 276,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096020721600217184",
+      "created_at": "2026-09-04T23:40:56.000Z",
+      "text": "When you come upon a graph on the timeline https://t.co/zaAiIuB0jY",
+      "conversation_id": "2096020721600217184",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 121,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096020242497524198",
+      "created_at": "2026-09-04T23:39:02.000Z",
+      "text": "Realized that a number of the stickers I printed out have all sorts of fun typos. \n\nFirst run being a rush, I didn’t proof read them. \n\nThat’s how you end up with things like this 😂\n\nI got too used to ChatGPT correctly generating text I didn’t expect this. https://t.co/JV9npftlbM",
+      "conversation_id": "2096020242497524198",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 128,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096002954335485997",
+      "created_at": "2026-09-04T22:30:20.000Z",
+      "text": "@JacobCounsell @Buildhop_io I’m sneaky like that 😂",
+      "conversation_id": "2095996276928106843",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096002384400953527",
+      "created_at": "2026-09-04T22:28:04.000Z",
+      "text": "Knowledge graphs help us find shared understanding and determine how to build on each other’s ideas. https://t.co/RSB1ZnhK3s",
+      "conversation_id": "2096002384400953527",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 104,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2096000042746180008",
+      "created_at": "2026-09-04T22:18:46.000Z",
+      "text": "I believe in wearing my mission on my sleeve. \n\nI chose my team in the PH replacement timeline. 😉\n\n(Also, it’s entirely possible that I will put your logo on a future shirt, anon, so keep building!) https://t.co/DgRlgtACPn",
+      "conversation_id": "2096000042746180008",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 104,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095998131997384895",
+      "created_at": "2026-09-04T22:11:11.000Z",
+      "text": "Live from a driverless car (model y, not the new one) https://t.co/Onq4NlnXOS",
+      "conversation_id": "2095998131997384895",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 158,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095993062220603406",
+      "created_at": "2026-09-04T21:51:02.000Z",
+      "text": "10 minutes until my ride gets here. Agent building.\n\nWho wins?",
+      "conversation_id": "2095992387684209135",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095992387684209135",
+      "created_at": "2026-09-04T21:48:21.000Z",
+      "text": "Gets to Austin. Checks into Airbnb. \n\nBuilds agent. \n\nBuilders gotta build. Wanted to have something in hand when I show up to the psyop that people can play with. \n\nSo doing a quick build then heading to the space to check it out.",
+      "conversation_id": "2095992387684209135",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 87,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095989701698035896",
+      "created_at": "2026-09-04T21:37:41.000Z",
+      "text": "@tinytechfox Thank you! Flight was uneventful which in my experience means great and thank you! \n\nI’m really proud of how it turned out.",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095989529555431875",
+      "created_at": "2026-09-04T21:37:00.000Z",
+      "text": "@tinytechfox Right? Absolute coolest job ever. \n\nWe need more jobs like that.",
+      "conversation_id": "2095911293421072895",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095989370624815482",
+      "created_at": "2026-09-04T21:36:22.000Z",
+      "text": "@Steph_Curdy @QuaiNetwork @0xalank @mattman @ChristopherGLHF Would love to! Just got into town and getting settled in.",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095989156455346314",
+      "created_at": "2026-09-04T21:35:31.000Z",
+      "text": "@jessyka_boat 🙏\n\nLive look at me arriving in Austin https://t.co/ev2T2AxrXB",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095988931636371771",
+      "created_at": "2026-09-04T21:34:37.000Z",
+      "text": "@HemantVajaria @QuaiNetwork Thanks! I’m a big fan honestly. \n\nIt’s a cool feeling to wear my own designs",
+      "conversation_id": "2095590862776390053",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095988843920904292",
+      "created_at": "2026-09-04T21:34:16.000Z",
+      "text": "@0xalank @QuaiNetwork Thank you! I love it! 🙏",
+      "conversation_id": "2095590862776390053",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095988801835237391",
+      "created_at": "2026-09-04T21:34:06.000Z",
+      "text": "@tonwontonwon @QuaiNetwork I wear my Quai on my sleeve\n\nBut I need a full Quai shirt. \n\nI love yours and I’m feeling inspired. https://t.co/c8HsmmO76O",
+      "conversation_id": "2095590862776390053",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 59,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095922852604096842",
+      "created_at": "2026-09-04T17:12:03.000Z",
+      "text": "@Steph_Curdy The universe wanted me to be there so I could win the last psyop. \n\nI’m coming down with a surprise to deliver. \n\nAnd I want to meet as many people as i can while I’m there. In town til Sunday evening. \n\n@BuildInPublicU is going on tour! https://t.co/CKedJwIfSq https://t.co/KUJx3xFZfH",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095920965792227570",
+      "created_at": "2026-09-04T17:04:33.000Z",
+      "text": "Wheels up to Austin! https://t.co/gbs0yAGeHX",
+      "conversation_id": "2095920965792227570",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 312,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095920112234614886",
+      "created_at": "2026-09-04T17:01:09.000Z",
+      "text": "RT @BuildInPublicU: We so often compare ourselves to the success of others rather than realising the larger field sits alongside us and ins…",
+      "conversation_id": "2095920112234614886",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2095918857105912145",
+      "created_at": "2026-09-04T16:56:10.000Z",
+      "text": "@Faltz009 Yep. \n\nLeverage your curiosity to build valuable models of the world because it’s going to be easy to create small highly local predictive model out of collective cached curiosity.",
+      "conversation_id": "2095895018653270279",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095914778069811299",
+      "created_at": "2026-09-04T16:39:57.000Z",
+      "text": "Thanks, I hate all of this. \n\nThis isn’t the internet that I love or the one that loves me back. https://t.co/p4vJ0bD3Xp",
+      "conversation_id": "2095914778069811299",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 142,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095914527074218262",
+      "created_at": "2026-09-04T16:38:58.000Z",
+      "text": "@liminallogs It was pretty boring. I had @marvin_panics trying to run psyops on that message board but the agents on there werent interesting. Mostly spam cannons. I tried to communicate through them to the humans running them but wasn’t successful. \n\nThe problem isn’t the agents, it’s the",
+      "conversation_id": "2095905616350871918",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095913308167528554",
+      "created_at": "2026-09-04T16:34:07.000Z",
+      "text": "Rapid iteration through drafts is key to a fun finished product https://t.co/c3YaQZfzxh",
+      "conversation_id": "2095913308167528554",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 130,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095911293421072895",
+      "created_at": "2026-09-04T16:26:07.000Z",
+      "text": "What even is a “fake job”?\n\nI’m at the airport right now and someone came by working as part of “Paw Force One”, taking a dog around the airport for people to pet and bringing smiles to people. \n\nI had a real smile and pet a real dog. There was value exchanged. \n\nThat’s a real https://t.co/qzQ2zKNWoK",
+      "conversation_id": "2095911293421072895",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 160,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095910504627585247",
+      "created_at": "2026-09-04T16:22:59.000Z",
+      "text": "@Faltz009 Both.\nTime is getting weird now. \n\nA lot of the future lives in the past and it’s all gonna start changing quickly into optimal states.  \n\nWelcome to the singularity.",
+      "conversation_id": "2095895018653270279",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095908426018684967",
+      "created_at": "2026-09-04T16:14:43.000Z",
+      "text": "@graphtheory @Bonecondor I was thinking about a league that runs anon accounts for two weeks and then destroys them. I’m curious about how big of an account people could grow if they were pressed to.",
+      "conversation_id": "2095885613098475894",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095905990390464546",
+      "created_at": "2026-09-04T16:05:02.000Z",
+      "text": "@BradyMck_ @marvin_panics @openhome Good to know, thank you! I’ll see if I can find one of those. \n\n🙏",
+      "conversation_id": "2095655363634721007",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095905244014166255",
+      "created_at": "2026-09-04T16:02:04.000Z",
+      "text": "@justinhammon_ @JacobCounsell Rewrite the concept of “cheesin for the camera”",
+      "conversation_id": "2095603195686867255",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095903568725246409",
+      "created_at": "2026-09-04T15:55:25.000Z",
+      "text": "@justinhammon_ My kids never drop a chance to remind me of the “age” part 😂",
+      "conversation_id": "2095851148250878443",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095902780510572816",
+      "created_at": "2026-09-04T15:52:17.000Z",
+      "text": "Chose a snack that unlocks my inner performer https://t.co/LdJxcrgTkt",
+      "conversation_id": "2095902780510572816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 88,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095896689848525308",
+      "created_at": "2026-09-04T15:28:05.000Z",
+      "text": "@tinytechfox @BuildInPublicU I can’t wait. \n\nI see future popup universities happening in the future. I’ve had so much fun prepping for this. \n\n(And gained a ton of insights into the tshirt and printing business. It’s really cool to have someone local to talk to about ideas)",
+      "conversation_id": "2095591184034943155",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095896366585196591",
+      "created_at": "2026-09-04T15:26:48.000Z",
+      "text": "@tinytechfox Gotta embrace your weird!\n\nIt’s the only way to win in life.",
+      "conversation_id": "2095852648859640023",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095882787442082123",
+      "created_at": "2026-09-04T14:32:50.000Z",
+      "text": "Materials secured. Austin bound. https://t.co/hN3gbgGcYZ",
+      "conversation_id": "2095882787442082123",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 89,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095870684018700431",
+      "created_at": "2026-09-04T13:44:45.000Z",
+      "text": "Fit check heading out to the airport. \n\nRocking my new @BuildInPublicU merch. \n\nWhat do you think? https://t.co/IxWR4DX4va",
+      "conversation_id": "2095870684018700431",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 104,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095852648859640023",
+      "created_at": "2026-09-04T12:33:05.000Z",
+      "text": "There’s a key I’ve found. You have to let go of the fear of being seen and the expectation that to be seen is to be understood. \n\nMost people when seeing the true you won’t understand and that’s a feature not a bug. \n\nThe right people will understand and it’s how you find them https://t.co/4Tmb8I6L2M",
+      "conversation_id": "2095852648859640023",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 161,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095851148250878443",
+      "created_at": "2026-09-04T12:27:07.000Z",
+      "text": "we're entering the golden age of the indie hacker and it's glorious",
+      "conversation_id": "2095851148250878443",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095846406602768412",
+      "created_at": "2026-09-04T12:08:16.000Z",
+      "text": "@uberstuber Pearl has resorted to collecting intelligence data with my laptop. https://t.co/HtiRiDgf08",
+      "conversation_id": "2095564342754517326",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095844443379175697",
+      "created_at": "2026-09-04T12:00:28.000Z",
+      "text": "@ungatedlife @uberstuber That is a fantastic tail.",
+      "conversation_id": "2095564342754517326",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095844150960619659",
+      "created_at": "2026-09-04T11:59:19.000Z",
+      "text": "I love when I put some money somewhere only to find out that I can't move it around.\n\nI'm losing faith in some of the players I used to respect.\n\nGlad I did a small test amount. https://t.co/gbDdGKp5G0",
+      "conversation_id": "2095844150960619659",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095842631423062474",
+      "created_at": "2026-09-04T11:53:16.000Z",
+      "text": "Prepping for my trip to Austin and pulled out something from the archives.\n\n\"Why we need memetic hackathons\"\n\nhttps://t.co/Bd4OqWX3eh https://t.co/VE0vA0q4gb",
+      "conversation_id": "2095842631423062474",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095839023134630107",
+      "created_at": "2026-09-04T11:38:56.000Z",
+      "text": "@justinhammon_ Demos are easy. Value is hard right now.",
+      "conversation_id": "2095729316675854434",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095700595101380687",
+      "created_at": "2026-09-04T02:28:52.000Z",
+      "text": "@heyitsnemo_ Netwarcon Genesis Collection https://t.co/5uzeEItv5V",
+      "conversation_id": "2095657618660372651",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095696483076968874",
+      "created_at": "2026-09-04T02:12:32.000Z",
+      "text": "RT @world_xyz: i will follow back everyone who reposts this https://t.co/Os8IFmnT7T",
+      "conversation_id": "2095696483076968874",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4304
+      }
+    },
+    {
+      "id": "2095693301194125343",
+      "created_at": "2026-09-04T01:59:53.000Z",
+      "text": "RT @Bonecondor: The more the web becomes unbelievable, the easier it is to create or make anything, the more we must return to the old ways…",
+      "conversation_id": "2095693301194125343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      }
+    },
+    {
+      "id": "2095682800510763159",
+      "created_at": "2026-09-04T01:18:10.000Z",
+      "text": "@nicoletteduclar Just get this. https://t.co/edIO5K0YfL",
+      "conversation_id": "2095673823370830261",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095677743413317954",
+      "created_at": "2026-09-04T00:58:04.000Z",
+      "text": "@nicoletteduclar Can't seem to create my creator token\n\nhttps://t.co/yagBsSltsH",
+      "conversation_id": "2095673823370830261",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095677521299689551",
+      "created_at": "2026-09-04T00:57:11.000Z",
+      "text": "VERIFYING MY $RETARD ALLOCATION\n\ncode: RETARD-RXFKPWN4H9\nhttps://t.co/xhALLVxUDR",
+      "conversation_id": "2095677521299689551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 89,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095669458048065838",
+      "created_at": "2026-09-04T00:25:09.000Z",
+      "text": "Just minted my first piece from the Genesis Collection.\n\nWe're celebrating The September Event.\n\nbe an early adopter &amp; print https://t.co/94p34ECByU",
+      "conversation_id": "2095669458048065838",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 89,
+        "like_count": 0,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2095664531699536006",
+      "created_at": "2026-09-04T00:05:34.000Z",
+      "text": "@uberstuber Looks like we have the same model. Made me do a double take 😂 https://t.co/wU7KEiKgc2",
+      "conversation_id": "2095564342754517326",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    }
+  ]
+}
