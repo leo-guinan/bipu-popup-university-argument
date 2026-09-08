@@ -1,0 +1,9 @@
+# Local/token-bearing artifacts
+proof_link.txt
+proof-create-response.json
+*.private.*
+
+# Generated media and local-only working artifacts
+nano-banana-builders-boat/
+*.mp4
+*.wav

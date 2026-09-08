@@ -31,6 +31,7 @@ The argument is not that these items automatically score. It is that they demons
 - `argument.md` makes the persuasive case without converting claims into facts.
 - `submission-map.md` maps the work to the spirit and letter of the packet.
 - `claims/receipt-gaps.md` lists what must be added before any public or judge-facing claim is upgraded.
+- `journalist-outreach.md` records the 11 provider-accepted messages, their exact public-safe copy, and the evidence boundary.
 - `receipts/` contains copies of local, non-secret receipt artifacts.
 
 No secrets, private journalist addresses, or raw participant contact data belong in this repository.
